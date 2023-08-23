@@ -5,6 +5,7 @@ const IndexPage: React.FC<PageProps> = () => {
   return (
     <main>
       <h1>AmirVahedix in Gatsby</h1>
+      <p>is this related to The Great Gatsby Movie???</p>
     </main>
   );
 };
